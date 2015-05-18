@@ -1,0 +1,13 @@
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\HitReportsWebpage.exe
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\HitReportsWebpage.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\System.Net.Http.dll
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\System.Net.Http.xml
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Debug\HitReportsWebpage.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Debug\HitReportsWebpage.exe
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Debug\HitReportsWebpage.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\HitReportsWebpage.exe.manifest
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Debug\HitReportsWebpage.application
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Debug\HitReportsWebpage.exe.manifest
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Debug\HitReportsWebpage.application

@@ -1,0 +1,13 @@
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\HitReportsWebpage.exe.manifest
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\HitReportsWebpage.application
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\HitReportsWebpage.exe
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\HitReportsWebpage.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\System.Net.Http.WebRequest.dll
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\System.Net.Http.dll
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\System.Net.Http.WebRequest.xml
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\bin\Release\System.Net.Http.xml
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Release\HitReportsWebpage.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Release\HitReportsWebpage.exe.manifest
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Release\HitReportsWebpage.application
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Release\HitReportsWebpage.exe
+c:\users\tyler\documents\visual studio 2012\Projects\HitReportsWebpage\HitReportsWebpage\obj\Release\HitReportsWebpage.pdb
